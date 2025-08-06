@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # SQL Server Management Studio Version 21
-VisualStudioVersion = 17.14.36301.6 d17.14
+VisualStudioVersion = 17.14.36301.6
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{4F2E2C19-372F-40D8-9FA7-9D2138C6997A}") = "online-store-sql", "online-store-sql\online-store-sql.ssmssqlproj", "{CF0CA422-96DD-5CC2-4B1F-08FE0E3530F4}"
 EndProject
@@ -11,6 +11,7 @@ Global
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
 		{CF0CA422-96DD-5CC2-4B1F-08FE0E3530F4}.Default|Default.ActiveCfg = Default
+		{EE7518D7-710D-4CC3-B662-A46D1ADF9C90}.Default|Default.ActiveCfg = Default
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

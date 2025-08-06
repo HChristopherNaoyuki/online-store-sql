@@ -2,13 +2,28 @@
 <SqlWorkbenchSqlProject xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Name="online-store-sql">
   <Items>
     <LogicalFolder Name="Connections" Type="2" Sorted="true">
-      <Items />
+      <Items>
+        <ConnectionNode Name="(localdb)\MSSQLLocalDB:PINK-BLUE\NaoyukiChristopherH">
+          <Created>2025-08-06T18:15:26.948441+02:00</Created>
+          <Type>SQL</Type>
+          <Server>(localdb)\MSSQLLocalDB</Server>
+          <UserName />
+          <Authentication>Windows Authentication</Authentication>
+          <InitialDB>online_store_sql</InitialDB>
+          <LoginTimeout>30</LoginTimeout>
+          <TrustServerCertificate>True</TrustServerCertificate>
+          <EncryptionOption>True</EncryptionOption>
+          <ExecutionTimeout>0</ExecutionTimeout>
+          <ConnectionProtocol>NotSpecified</ConnectionProtocol>
+          <ApplicationName>Microsoft SQL Server Management Studio - Query</ApplicationName>
+        </ConnectionNode>
+      </Items>
     </LogicalFolder>
     <LogicalFolder Name="Queries" Type="0" Sorted="true">
       <Items>
         <FileNode Name="Table.sql">
-          <AssociatedConnectionMoniker />
-          <AssociatedConnSrvName />
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:(localdb)\MSSQLLocalDB:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>(localdb)\MSSQLLocalDB</AssociatedConnSrvName>
           <AssociatedConnUserName />
           <FullPath>Table.sql</FullPath>
         </FileNode>
